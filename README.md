@@ -1,4 +1,4 @@
 # EJS-ToDoList
 
 ![This is an image]
-![image](https://user-images.githubusercontent.com/107684179/186666006-59d783bc-0896-4a98-9d91-f60ba81f3dd1.png)
+![Screenshot_1](https://user-images.githubusercontent.com/107684179/186667164-3ce53afc-183e-4485-8e39-fc51314c67f7.png)
